@@ -39,22 +39,24 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  
   <p align="left">
     <a href="https://github.com/vihanga20/turtle"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vihanga20&repo=turtle&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="turtle"></a>
     <a href="https://github.com/vihanga20/Tool-X"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vihanga20&repo=Tool-X&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rTool-X"></a>
     <a href="https://github.com/vihanga20/QueenAlexa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=vihanga20&repo=QueenAlexa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QueenAlexa"></a>
   </p>
-  
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  
-  <h3>💻 learning that language 💻</h3>
+  <h3>💻 Languages under study 💻</h3>
   <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+     <a href="https://cplusplus.com/"><img width="32px" alt="C++" src="https://download1073.mediafire.com/kt64ijebdm4gUPcUpEQAVwnm0MhH2LjO_qN0G9s2Fm1wPGDD_g3m5273Cy6SgNcuqWzjJ8iItUWVeLexLBFbLKDpPXmQYR4/p4j72ln8tcjvt2d/c%2B+%2B.png"></a>
+     <a href="https://www.java.com/en/"><img width="32px" alt="Java" src="https://download1078.mediafire.com/mvj9075rrk2gcom7-2z9dAZh894ql_ytoz46Mfl6f4T6hQcE1CSK0EnheHjG5ryImcriHA-fpvyOSP6SOXsTv9E6wBFbTR0/oylqoxu48tzpgqx/java.png"> </a>
+     <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script" src="https://download1649.mediafire.com/fl7x2r9nzqagsd31QcmDSVTrceAGFcVBOj0mnG-yYpxidbcssAW9H09gdFCBERl8KdjD6gb9LNnHUbfdSdM9O54w_mbviLE/gabex9tz4n6uqt9/js_node.png"> </a>
+    <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/rasnl582zpvg6ryNnGiuEOkyN2yQsrdhtAsWyGhJvunQBzLgGtbE8AujczGyosobaTCD3s6kbRBafnKt4_67j_MyfQ5Z1_4/tq1n4q1f3l9uz9k/php.png"> </a>
+    <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://download1584.mediafire.com/82ktmsws89ug9MZLsFmZPWovMxLMmuuUAgJotT9dHyx7B0xW-7moHpmP5sAxqnDrQMX3--9CfnNg49GLoNes5gMkWhlTp8Q/jxxuajr2jujswqb/4375050_logo_python_icon+%282%29.png"> </a>
+    <a href="https://html.com/"><img width="32px" alt="HTML5" src="https://download1514.mediafire.com/x1epc9bu2t8gLIgMckjuN-u6bbJ6xtsrQCE6N6hOvregc7HTdr55jBY4rytG8flYKf5Ie0kz5HME2Geb7a1XH1Ker0qPfQw/gt4kvvuzldwlaf4/4373229_html5_logo_logos_icon+%282%29.png"> </a>
+    <a href="#"><img width="32px" alt="CSS3" src="https://download1648.mediafire.com/ffllna20m3wgukbjhzu7oTAjDlApjbWtrRTtyYOJh-Uek5yUfPAfflvZMf7iVzk_MZGepFFogbQmIBJbVYeoolbRRmLAvy4/z598eqe43vk9ny0/css3.png"> </a>
   </p>
 
-  
-  <h3>💻 Software and Tools</h3>
 </details>
 
 <details> 
