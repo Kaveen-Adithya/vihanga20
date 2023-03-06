@@ -1,12 +1,11 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/vihanga20">
+    <img src="https://download1510.mediafire.com/xdbkonkkd4ag0B_gnsdxRhoikgcr_BgW5IOtD3xY0TMxEbxKvgXF1mZRp0_NWt0LkJeZhXbIH_bJl7BDb6OBj3c1IQOZAVI/y8cq9clmlr6hefq/name.png" alt="Kaveen Adithya" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://github.com/vihanga20/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=2000&color=F70000&width=437&lines=Welcome+to+my+github+account;%E0%B6%B8%E0%B6%9C%E0%B7%9A+github+%E0%B6%9C%E0%B7%92%E0%B6%AB%E0%B7%94%E0%B6%B8%E0%B6%A7+%E0%B7%83%E0%B7%8F%E0%B6%AF%E0%B6%BB%E0%B6%BA%E0%B7%99%E0%B6%B1%E0%B7%8A++%E0%B6%B4%E0%B7%92%E0%B6%BD%E0%B7%92%E0%B6%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%80%E0%B7%8F." alt="Typing SVG" /></a>
+  <a href="https://github.com/vihanga20/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70017&width=435&lines=Welcome+to+my+github+account;%E0%B6%B8%E0%B6%9C%E0%B7%9A+github+%E0%B6%9C%E0%B7%92%E0%B6%AB%E0%B7%94%E0%B6%B8%E0%B6%A7+%E0%B7%83%E0%B7%8F%E0%B6%AF%E0%B6%BB%E0%B6%BA%E0%B7%99%E0%B6%B1%E0%B7%8A+%E0%B6%B4%E0%B7%92%E0%B6%BD%E0%B7%92%E0%B6%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%80%E0%B7%8F." alt="Typing SVG" /></a>
 </p>
 
 <!-- Social media icons section -->
@@ -21,18 +20,18 @@
 
 <br/>
 
+
+
 <!-- Social badges section 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/vihanga20?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vihanga20?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/subscribers/UCw7Tn1iNUU8MQthssd_uaTA?color=orange&logo=youtube&logoColor=red&style=for-the-badge"/></a> 
+  <a href="[https://github.com/vihanga20?tab=repositories&sort=stargazers](https://www.youtube.com/watch?v=UtKRnUQ834k)">
+    <img alt="total stars" title="YouTube Video Views" src="https://img.shields.io/youtube/views/UtKRnUQ834k?color=green&logo=youtube&style=for-the-badge"/></a>
   <a href="https://github.com/vihanga20?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vihanga20?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vihanga20?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </p>
 
 <details open> 
@@ -41,15 +40,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/vihanga20/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+    <a href="https://github.com/vihanga20/turtle"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vihanga20&repo=turtle&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="turtle"></a>
+    <a href="https://github.com/vihanga20/Tool-X"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vihanga20&repo=Tool-X&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rTool-X"></a>
+    <a href="https://github.com/vihanga20/QueenAlexa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=vihanga20&repo=QueenAlexa&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QueenAlexa"></a>
   </p>
   
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -81,22 +74,21 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+ [![KAVEEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanga20&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a [![KAVEEN's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vihanga20&theme=github-compact)](https://github.com/anuraghazra/github-readme-activity-graph) /></a>
 
   <h3>⚡ Massage and other</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 1. 🗣 Lerning python
-2. 🎉 thanks for the [HelaDevs](https://www.youtube.com/@heladevs-sweden)
+2. 🎉 Thanks for giving me the goal [Heladevs-sweden](https://www.youtube.com/@heladevs-sweden)
 3. 🎉 Keep learning
 4. 💪 Don't waste your time
 5. 🗣 One day I will become a software engineer
