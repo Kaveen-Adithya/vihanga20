@@ -11,23 +11,12 @@
 
 <!-- Social media icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA"><img width="32px" alt="Youtube" title="YouTube" src="https://download1085.mediafire.com/hgjjxd0eh6egFwFrTQB6VGEczYuvj4jU_5oKRCFpO5FZ-0Mx-qqB_RzgsIQkaS6t2RnH1Oz9efPPyS_A4r6nV0rsi8_SHiQ/dvnaohsuh5dakr3/youtube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="Twitter" title="Twitter" src="https://download1075.mediafire.com/u03cyjw5zsnguV3jheGRzwyw8_x-vIQaAg02FweuI4nd38tl_yaTVQF-4kOuK_8s1dA0O6hes8TRLdUmIHY0tvjArSIZQ7s/o2009losxgijn5b/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://discord.gg/"><img width="32px" alt="Discord.gg" title="Discord" src="https://download1655.mediafire.com/uypt6qobui2gpx_gl4dzTsnqXB9xswMEWJsxRD2qVWha6QgZ-5JbfbFymJSHiaRHdaRQmHQyNknavA7HuYNEROXzWJtSj_o/eyfo4m0raocwa88/discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="instergrame.com" title="instergrame" src="https://download1500.mediafire.com/84gz8w759zwgJTU3ILmZiTBW5_bXSZZfcJQdgrTtr1EBWXJHpRjfwoe4AuRiGuJTbOerDF0wxt9fwZavOA0zcu5DA920TAY/bhki73wtvthe6gu/instagram.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" src="https://download1074.mediafire.com/snszq63pr4sgZ1ZdP8GQNrUAA27HEnx33G9k7tjeYcEQfXFFJfqoIkH7mmpzBtCkLOuz8StXm15HhwwSCp7ZuCwA32xW-VM/wcsndgpk7pzobhy/reddit.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://www.facebook.com/kaveen.adithya.0"><img width="32px" alt="facebook" title="Face Book" src="https://download1638.mediafire.com/5ptqilcrpmcgcgy3Zj4ziPhl0njkZV3ld63TkmIzkkrSTLYDcGQoSC6SqaZCz0VzHl_RMwqh4T1lKApRDa2_d5eUPT-Hxnk/nmhuejd0ljrco9n/facebook.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA"><img width="32px" alt="Youtube" title="YouTube" src="https://download1085.mediafire.com/hgjjxd0eh6egFwFrTQB6VGEczYuvj4jU_5oKRCFpO5FZ-0Mx-qqB_RzgsIQkaS6t2RnH1Oz9efPPyS_A4r6nV0rsi8_SHiQ/dvnaohsuh5dakr3/youtube.png"
+      href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="Twitter" title="Twitter" src="https://download1075.mediafire.com/u03cyjw5zsnguV3jheGRzwyw8_x-vIQaAg02FweuI4nd38tl_yaTVQF-4kOuK_8s1dA0O6hes8TRLdUmIHY0tvjArSIZQ7s/o2009losxgijn5b/twitter.png"
+      href="https://discord.gg/"><img width="32px" alt="Discord.gg" title="Discord" src="https://download1655.mediafire.com/uypt6qobui2gpx_gl4dzTsnqXB9xswMEWJsxRD2qVWha6QgZ-5JbfbFymJSHiaRHdaRQmHQyNknavA7HuYNEROXzWJtSj_o/eyfo4m0raocwa88/discord.png"
+      href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="instergrame.com" title="instergrame" src="https://download1500.mediafire.com/84gz8w759zwgJTU3ILmZiTBW5_bXSZZfcJQdgrTtr1EBWXJHpRjfwoe4AuRiGuJTbOerDF0wxt9fwZavOA0zcu5DA920TAY/bhki73wtvthe6gu/instagram.png"
+      href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" src="https://download1074.mediafire.com/snszq63pr4sgZ1ZdP8GQNrUAA27HEnx33G9k7tjeYcEQfXFFJfqoIkH7mmpzBtCkLOuz8StXm15HhwwSCp7ZuCwA32xW-VM/wcsndgpk7pzobhy/reddit.png"
+      href="https://www.facebook.com/kaveen.adithya.0"><img width="32px" alt="facebook" title="Face Book" src="https://download1638.mediafire.com/5ptqilcrpmcgcgy3Zj4ziPhl0njkZV3ld63TkmIzkkrSTLYDcGQoSC6SqaZCz0VzHl_RMwqh4T1lKApRDa2_d5eUPT-Hxnk/nmhuejd0ljrco9n/facebook.png"/></a>
 </p>
 
 <br/>
@@ -36,28 +25,23 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <a href="https://github.com/vihanga20?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vihanga20?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/vihanga20?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vihanga20?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
--->
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/vihanga20/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
