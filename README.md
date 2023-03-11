@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vihanga20">
-    <img src="https://download1510.mediafire.com/xdbkonkkd4ag0B_gnsdxRhoikgcr_BgW5IOtD3xY0TMxEbxKvgXF1mZRp0_NWt0LkJeZhXbIH_bJl7BDb6OBj3c1IQOZAVI/y8cq9clmlr6hefq/name.png" alt="Kaveen Adithya" /></a>
+    <img src="https://download1510.mediafire.com/dzp1cmm8l3mgUoSkNpPWXVfGWO7oMdQgZxcZfHKTKE102qOJbZoQ3joi8eKcjVmDI8zZme3x8xEmE9oOsyuAIYR62XIjJg/y8cq9clmlr6hefq/name.png" alt="Kaveen Adithya" /></a>
 </p>
 
 <p align="center">
@@ -48,13 +48,13 @@
   </p>
   <h3>💻 Languages under study 💻</h3>
   <p>
-     <a href="https://cplusplus.com/"><img width="32px" alt="C++" src="https://download1073.mediafire.com/kt64ijebdm4gUPcUpEQAVwnm0MhH2LjO_qN0G9s2Fm1wPGDD_g3m5273Cy6SgNcuqWzjJ8iItUWVeLexLBFbLKDpPXmQYR4/p4j72ln8tcjvt2d/c%2B+%2B.png"></a>
-     <a href="https://www.java.com/en/"><img width="32px" alt="Java" src="https://download1078.mediafire.com/mvj9075rrk2gcom7-2z9dAZh894ql_ytoz46Mfl6f4T6hQcE1CSK0EnheHjG5ryImcriHA-fpvyOSP6SOXsTv9E6wBFbTR0/oylqoxu48tzpgqx/java.png"> </a>
-     <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script" src="https://download1649.mediafire.com/fl7x2r9nzqagsd31QcmDSVTrceAGFcVBOj0mnG-yYpxidbcssAW9H09gdFCBERl8KdjD6gb9LNnHUbfdSdM9O54w_mbviLE/gabex9tz4n6uqt9/js_node.png"> </a>
-    <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/rasnl582zpvg6ryNnGiuEOkyN2yQsrdhtAsWyGhJvunQBzLgGtbE8AujczGyosobaTCD3s6kbRBafnKt4_67j_MyfQ5Z1_4/tq1n4q1f3l9uz9k/php.png"> </a>
-    <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://download1584.mediafire.com/82ktmsws89ug9MZLsFmZPWovMxLMmuuUAgJotT9dHyx7B0xW-7moHpmP5sAxqnDrQMX3--9CfnNg49GLoNes5gMkWhlTp8Q/jxxuajr2jujswqb/4375050_logo_python_icon+%282%29.png"> </a>
-    <a href="https://html.com/"><img width="32px" alt="HTML5" src="https://download1514.mediafire.com/x1epc9bu2t8gLIgMckjuN-u6bbJ6xtsrQCE6N6hOvregc7HTdr55jBY4rytG8flYKf5Ie0kz5HME2Geb7a1XH1Ker0qPfQw/gt4kvvuzldwlaf4/4373229_html5_logo_logos_icon+%282%29.png"> </a>
-    <a href="#"><img width="32px" alt="CSS3" src="https://download1648.mediafire.com/ffllna20m3wgukbjhzu7oTAjDlApjbWtrRTtyYOJh-Uek5yUfPAfflvZMf7iVzk_MZGepFFogbQmIBJbVYeoolbRRmLAvy4/z598eqe43vk9ny0/css3.png"> </a>
+     <a href="https://cplusplus.com/"><img width="32px" alt="C++" src="https://download1073.mediafire.com/f50i98jymr8goN9bz0cKe-mogs7noqA3Z9pGeFc9FBFGQ6l1as-xbR5Ot-UtR779fbtTGhIESd7bxtfaSSglYClxZFBd1Q/p4j72ln8tcjvt2d/c%2B+%2B.png"></a>
+     <a href="https://www.java.com/en/"><img width="32px" alt="Java" src="https://download1078.mediafire.com/dte8ugzwpkrgge_CgRcY0Lk2pGJYz2UCdqqiefK7YsjKc9LTd6-41NDKqge80ErfL9z5jzb1NxZJYhZCyNreHgRqTlr2wA/oylqoxu48tzpgqx/java.png"> </a>
+     <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script" src="https://download1649.mediafire.com/cfpkiwov98pg1PStSW3q5BPAkoskJ3AHwzLpS_vZwXFWQfz5Sp1kILd3ph2eQBF6dxqNR99GQ4u1NCSidWZBy1OKIvGjtQ/gabex9tz4n6uqt9/js_node.png"> </a>
+    <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/4n6pmglgyr7geQ6RQumV7WwzDehEcKEfwVHhxZW6ksOOyAbpgKzmvGel39UmfJovblHmcGu00JNkbr7IStkoDe5ns1qBkQ/tq1n4q1f3l9uz9k/php.png"> </a>
+    <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://download850.mediafire.com/apgafl8rznugh__hvVSVfdIipdPGg-BWEYSSY6E7yl68JmP-9etAoaM02i1Oqtv4NIQCsxGgARpDw4oQ4l8wuDk6QzsCZw/jxxuajr2jujswqb/4375050_logo_python_icon+%282%29.png"> </a>
+    <a href="https://html.com/"><img width="32px" alt="HTML5" src="https://download1514.mediafire.com/zo4cwk1317kgV-poruAurPmmWkeQhTzygXEvc1ui7hFyPD8Mp8SDliJkUvVkhRHoR03ZO2afBquwws40d0V9zOerhdJzuw/gt4kvvuzldwlaf4/4373229_html5_logo_logos_icon+%282%29.png"> </a>
+    <a href="#"><img width="32px" alt="CSS3" src="https://download1648.mediafire.com/2o43u45egxtg8GCymZCoCVOekS0A_4CzxKTS_E2Z00UOhQuarkkwhDW4WteSC5u5RlUfpntmeKy9bktty4bP8XY699WXqQ/z598eqe43vk9ny0/css3.png"> </a>
   </p>
 
 </details>
