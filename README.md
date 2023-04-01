@@ -52,9 +52,9 @@
      <a href="https://www.java.com/en/"><img width="32px" alt="Java" src="https://download1078.mediafire.com/dte8ugzwpkrgge_CgRcY0Lk2pGJYz2UCdqqiefK7YsjKc9LTd6-41NDKqge80ErfL9z5jzb1NxZJYhZCyNreHgRqTlr2wA/oylqoxu48tzpgqx/java.png"> </a>
      <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script" src="https://download1649.mediafire.com/cfpkiwov98pg1PStSW3q5BPAkoskJ3AHwzLpS_vZwXFWQfz5Sp1kILd3ph2eQBF6dxqNR99GQ4u1NCSidWZBy1OKIvGjtQ/gabex9tz4n6uqt9/js_node.png"> </a>
     <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/4n6pmglgyr7geQ6RQumV7WwzDehEcKEfwVHhxZW6ksOOyAbpgKzmvGel39UmfJovblHmcGu00JNkbr7IStkoDe5ns1qBkQ/tq1n4q1f3l9uz9k/php.png"> </a>
-    <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://download850.mediafire.com/apgafl8rznugh__hvVSVfdIipdPGg-BWEYSSY6E7yl68JmP-9etAoaM02i1Oqtv4NIQCsxGgARpDw4oQ4l8wuDk6QzsCZw/jxxuajr2jujswqb/4375050_logo_python_icon+%282%29.png"> </a>
+    <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://docs.python.org/3/_static/py.svg"> </a>
     <a href="https://html.com/"><img width="32px" alt="HTML5" src="https://download1514.mediafire.com/zo4cwk1317kgV-poruAurPmmWkeQhTzygXEvc1ui7hFyPD8Mp8SDliJkUvVkhRHoR03ZO2afBquwws40d0V9zOerhdJzuw/gt4kvvuzldwlaf4/4373229_html5_logo_logos_icon+%282%29.png"> </a>
-    <a href="#"><img width="32px" alt="CSS3" src="https://download1648.mediafire.com/2o43u45egxtg8GCymZCoCVOekS0A_4CzxKTS_E2Z00UOhQuarkkwhDW4WteSC5u5RlUfpntmeKy9bktty4bP8XY699WXqQ/z598eqe43vk9ny0/css3.png"> </a>
+    <a href="#"><img width="32px" alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"> </a>
   </p>
 
 </details>
