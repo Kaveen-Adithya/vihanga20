@@ -58,7 +58,8 @@
   </p>
 <h3>🔰 CCNA digital badge 🔰</h3>
   <p>
-    
+    <a href="#"><img width="32px" alt="CH" src=""></a>
+    <a href="#"><img width="32px" alt="CS" src=""></a>
   </p>
 </details>
 
