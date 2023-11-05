@@ -14,7 +14,7 @@
      <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/128/733/733579.png"/></a>
      <a href="https://discord.gg/"><img width="32px" alt="Discord.gg" title="Discord" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png"/></a>
      <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="instergrame.com" title="instergrame" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>
-     <a href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" scr="https://cdn-icons-png.flaticon.com/128/2111/2111589.png"/></a>
+     <a href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" src="https://cdn-icons-png.flaticon.com/128/2111/2111589.png"/></a>
      <a href="https://www.facebook.com/kaveen.adithya.0"><img width="32px" alt="facebook" title="Face Book" src="https://cdn-icons-png.flaticon.com/128/733/733547.png"/></a>
 </p>
 
