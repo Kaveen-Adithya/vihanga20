@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA"><img width="32px" alt="Youtube" title="YouTube" src="https://download1085.mediafire.com/hgjjxd0eh6egFwFrTQB6VGEczYuvj4jU_5oKRCFpO5FZ-0Mx-qqB_RzgsIQkaS6t2RnH1Oz9efPPyS_A4r6nV0rsi8_SHiQ/dvnaohsuh5dakr3/youtube.png"/></a>
      <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="Twitter" title="Twitter" src="https://download1075.mediafire.com/u03cyjw5zsnguV3jheGRzwyw8_x-vIQaAg02FweuI4nd38tl_yaTVQF-4kOuK_8s1dA0O6hes8TRLdUmIHY0tvjArSIZQ7s/o2009losxgijn5b/twitter.png"/></a>
      <a href="https://discord.gg/"><img width="32px" alt="Discord.gg" title="Discord" src="https://download1655.mediafire.com/uypt6qobui2gpx_gl4dzTsnqXB9xswMEWJsxRD2qVWha6QgZ-5JbfbFymJSHiaRHdaRQmHQyNknavA7HuYNEROXzWJtSj_o/eyfo4m0raocwa88/discord.png"/></a>
-     <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="instergrame.com" title="instergrame" src="https://www.pngtank.com/en/instagram-icon-instagram-logo-instagram-sticker-clipart-instagram-violet-png"/></a>
+     <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="instergrame.com" title="instergrame" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>
      <a href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" src="https://download1074.mediafire.com/snszq63pr4sgZ1ZdP8GQNrUAA27HEnx33G9k7tjeYcEQfXFFJfqoIkH7mmpzBtCkLOuz8StXm15HhwwSCp7ZuCwA32xW-VM/wcsndgpk7pzobhy/reddit.png"/></a>
      <a href="https://www.facebook.com/kaveen.adithya.0"><img width="32px" alt="facebook" title="Face Book" src="https://download1638.mediafire.com/5ptqilcrpmcgcgy3Zj4ziPhl0njkZV3ld63TkmIzkkrSTLYDcGQoSC6SqaZCz0VzHl_RMwqh4T1lKApRDa2_d5eUPT-Hxnk/nmhuejd0ljrco9n/facebook.png"/></a>
 </p>
@@ -48,10 +48,10 @@
   </p>
   <h3>💻 Languages under study 💻</h3>
   <p>
-     <a href="https://cplusplus.com/"><img width="32px" alt="C++" src="https://download1073.mediafire.com/f50i98jymr8goN9bz0cKe-mogs7noqA3Z9pGeFc9FBFGQ6l1as-xbR5Ot-UtR779fbtTGhIESd7bxtfaSSglYClxZFBd1Q/p4j72ln8tcjvt2d/c%2B+%2B.png"></a>
+    <!-- <a href="https://cplusplus.com/"><img width="32px" alt="C++" src="https://download1073.mediafire.com/f50i98jymr8goN9bz0cKe-mogs7noqA3Z9pGeFc9FBFGQ6l1as-xbR5Ot-UtR779fbtTGhIESd7bxtfaSSglYClxZFBd1Q/p4j72ln8tcjvt2d/c%2B+%2B.png"></a>
      <a href="https://www.java.com/en/"><img width="32px" alt="Java" src="https://download1078.mediafire.com/dte8ugzwpkrgge_CgRcY0Lk2pGJYz2UCdqqiefK7YsjKc9LTd6-41NDKqge80ErfL9z5jzb1NxZJYhZCyNreHgRqTlr2wA/oylqoxu48tzpgqx/java.png"> </a>
      <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script" src="https://download1649.mediafire.com/cfpkiwov98pg1PStSW3q5BPAkoskJ3AHwzLpS_vZwXFWQfz5Sp1kILd3ph2eQBF6dxqNR99GQ4u1NCSidWZBy1OKIvGjtQ/gabex9tz4n6uqt9/js_node.png"> </a>
-    <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/4n6pmglgyr7geQ6RQumV7WwzDehEcKEfwVHhxZW6ksOOyAbpgKzmvGel39UmfJovblHmcGu00JNkbr7IStkoDe5ns1qBkQ/tq1n4q1f3l9uz9k/php.png"> </a>
+    <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/4n6pmglgyr7geQ6RQumV7WwzDehEcKEfwVHhxZW6ksOOyAbpgKzmvGel39UmfJovblHmcGu00JNkbr7IStkoDe5ns1qBkQ/tq1n4q1f3l9uz9k/php.png"> </a> -->
     <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://docs.python.org/3/_static/py.svg"> </a>
     <a href="https://html.com/"><img width="32px" alt="HTML5" src="https://icon2.cleanpng.com/20180429/oxe/kisspng-responsive-web-design-html-world-wide-web-consorti-5ae60d37a07889.7801612615250261036573.jpg"> </a>
     <a href="#"><img width="32px" alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"> </a>
