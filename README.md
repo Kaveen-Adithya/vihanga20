@@ -10,12 +10,12 @@
 
 <!-- Social media icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA"><img width="32px" alt="Youtube" title="YouTube" src="https://download1085.mediafire.com/hgjjxd0eh6egFwFrTQB6VGEczYuvj4jU_5oKRCFpO5FZ-0Mx-qqB_RzgsIQkaS6t2RnH1Oz9efPPyS_A4r6nV0rsi8_SHiQ/dvnaohsuh5dakr3/youtube.png"/></a>
-     <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="Twitter" title="Twitter" src="https://download1075.mediafire.com/u03cyjw5zsnguV3jheGRzwyw8_x-vIQaAg02FweuI4nd38tl_yaTVQF-4kOuK_8s1dA0O6hes8TRLdUmIHY0tvjArSIZQ7s/o2009losxgijn5b/twitter.png"/></a>
-     <a href="https://discord.gg/"><img width="32px" alt="Discord.gg" title="Discord" src="https://download1655.mediafire.com/uypt6qobui2gpx_gl4dzTsnqXB9xswMEWJsxRD2qVWha6QgZ-5JbfbFymJSHiaRHdaRQmHQyNknavA7HuYNEROXzWJtSj_o/eyfo4m0raocwa88/discord.png"/></a>
+  <a href="https://www.youtube.com/channel/UCw7Tn1iNUU8MQthssd_uaTA"><img width="32px" alt="Youtube" title="YouTube" src=""/></a>
+     <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="Twitter" title="Twitter" src=""/></a>
+     <a href="https://discord.gg/"><img width="32px" alt="Discord.gg" title="Discord" src=""/></a>
      <a href="https://twitter.com/Vihanga_Kaveen"><img width="32px" alt="instergrame.com" title="instergrame" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>
-     <a href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" src="https://download1074.mediafire.com/snszq63pr4sgZ1ZdP8GQNrUAA27HEnx33G9k7tjeYcEQfXFFJfqoIkH7mmpzBtCkLOuz8StXm15HhwwSCp7ZuCwA32xW-VM/wcsndgpk7pzobhy/reddit.png"/></a>
-     <a href="https://www.facebook.com/kaveen.adithya.0"><img width="32px" alt="facebook" title="Face Book" src="https://download1638.mediafire.com/5ptqilcrpmcgcgy3Zj4ziPhl0njkZV3ld63TkmIzkkrSTLYDcGQoSC6SqaZCz0VzHl_RMwqh4T1lKApRDa2_d5eUPT-Hxnk/nmhuejd0ljrco9n/facebook.png"/></a>
+     <a href="https://www.reddit.com/user/Kaveen_Adithya"><img width="32px" alt="redit" title="Redit" scr=""/></a>
+     <a href="https://www.facebook.com/kaveen.adithya.0"><img width="32px" alt="facebook" title="Face Book" src=""/></a>
 </p>
 
 <br/>
