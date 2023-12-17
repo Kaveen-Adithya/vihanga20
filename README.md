@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vihanga20">
-    <img src="https://download1510.mediafire.com/dzp1cmm8l3mgUoSkNpPWXVfGWO7oMdQgZxcZfHKTKE102qOJbZoQ3joi8eKcjVmDI8zZme3x8xEmE9oOsyuAIYR62XIjJg/y8cq9clmlr6hefq/name.png" alt="Kaveen Adithya" /></a>
+    <img src="https://github.com/vihanga20/upload/blob/main/75985679-modified.png" width="170px" alt="Kaveen Adithya" /></a>
 </p>
 
 <p align="center">
