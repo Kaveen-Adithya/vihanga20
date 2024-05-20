@@ -81,14 +81,14 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
- [![KAVEEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanga20&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+ [![KAVEEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanga20&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)]
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a [![KAVEEN's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vihanga20&theme=github-compact)](https://github.com/anuraghazra/github-readme-activity-graph) /></a>
+ [![KAVEEN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vihanga20&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <h3>⚡ Massage and other</h3>
 
