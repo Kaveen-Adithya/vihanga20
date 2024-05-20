@@ -95,9 +95,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 1. 🗣 Lerning python
-2. 🎉 Thanks for giving me the goal [Heladevs-sweden](https://www.youtube.com/@heladevs-sweden)
-3. 🎉 Keep learning
-4. 💪 Don't waste your time
-5. 🗣 One day I will become a software engineer
-
+2. 🎉 Keep learning
+3. 💪 Don't waste your time
+4. 🗣 One day I will become a Ethical Hacker
 </details>
