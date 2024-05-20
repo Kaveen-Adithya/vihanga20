@@ -5,8 +5,8 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/vihanga20/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70017&width=435&lines=Welcome+to+my+github+account;%E0%B6%B8%E0%B6%9C%E0%B7%9A+github+%E0%B6%9C%E0%B7%92%E0%B6%AB%E0%B7%94%E0%B6%B8%E0%B6%A7+%E0%B7%83%E0%B7%8F%E0%B6%AF%E0%B6%BB%E0%B6%BA%E0%B7%99%E0%B6%B1%E0%B7%8A+%E0%B6%B4%E0%B7%92%E0%B6%BD%E0%B7%92%E0%B6%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%80%E0%B7%8F." alt="Typing SVG" /></a>
-</p>
+  <!--<a href="https://github.com/vihanga20/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70017&width=435&lines=Welcome+to+my+github+account;%E0%B6%B8%E0%B6%9C%E0%B7%9A+github+%E0%B6%9C%E0%B7%92%E0%B6%AB%E0%B7%94%E0%B6%B8%E0%B6%A7+%E0%B7%83%E0%B7%8F%E0%B6%AF%E0%B6%BB%E0%B6%BA%E0%B7%99%E0%B6%B1%E0%B7%8A+%E0%B6%B4%E0%B7%92%E0%B6%BD%E0%B7%92%E0%B6%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%80%E0%B7%8F." alt="Typing SVG" /></a>
+</p> -->
 
 <!-- Social media icons section -->
 <p align="center">
@@ -48,18 +48,19 @@
   </p>
   <h3>💻 Languages under study 💻</h3>
   <p>
-    <!-- <a href="https://cplusplus.com/"><img width="32px" alt="C++" src="https://download1073.mediafire.com/f50i98jymr8goN9bz0cKe-mogs7noqA3Z9pGeFc9FBFGQ6l1as-xbR5Ot-UtR779fbtTGhIESd7bxtfaSSglYClxZFBd1Q/p4j72ln8tcjvt2d/c%2B+%2B.png"></a>
-     <a href="https://www.java.com/en/"><img width="32px" alt="Java" src="https://download1078.mediafire.com/dte8ugzwpkrgge_CgRcY0Lk2pGJYz2UCdqqiefK7YsjKc9LTd6-41NDKqge80ErfL9z5jzb1NxZJYhZCyNreHgRqTlr2wA/oylqoxu48tzpgqx/java.png"> </a>
-     <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script" src="https://download1649.mediafire.com/cfpkiwov98pg1PStSW3q5BPAkoskJ3AHwzLpS_vZwXFWQfz5Sp1kILd3ph2eQBF6dxqNR99GQ4u1NCSidWZBy1OKIvGjtQ/gabex9tz4n6uqt9/js_node.png"> </a>
-    <a href="https://www.php.net/"><img width="32px" alt="PHP" src="https://download1522.mediafire.com/4n6pmglgyr7geQ6RQumV7WwzDehEcKEfwVHhxZW6ksOOyAbpgKzmvGel39UmfJovblHmcGu00JNkbr7IStkoDe5ns1qBkQ/tq1n4q1f3l9uz9k/php.png"> </a> -->
+ <!-- <a href="https://cplusplus.com/"><img width="32px" alt="C++" src=".png"></a>
+     <a href="https://www.java.com/en/"><img width="32px" alt="Java" src=".png"> </a>
+     <a href="https://nodejs.org/en/"><img width="32px" alt="Java Script"></a><src="https://download1649.mediafire.com/.png"> </a>
+     <a href="https://www.php.net/"><img width="32px" alt="PHP" src=".png"> </a>        -->
     <a href="https://www.python.org/"><img width="32px" alt="Python" src="https://docs.python.org/3/_static/py.svg"> </a>
-    <a href="https://html.com/"><img width="32px" alt="HTML5" src="https://icon2.cleanpng.com/20180429/oxe/kisspng-responsive-web-design-html-world-wide-web-consorti-5ae60d37a07889.7801612615250261036573.jpg"> </a>
-    <a href="#"><img width="32px" alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"> </a>
   </p>
-<h3>🔰 CCNA digital badge 🔰</h3>
+<h3>🔰 badges 🔰</h3>
   <p>
     <a href="https://drive.google.com/file/d/1OlcPeCP16BKJYJza8LxxqToSV2iyHsz9/view?usp=drivesdk"><img width="32px" alt="CHB" src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png"></a>
-    <a href="https://drive.google.com/file/d/1Oc_7KagjWY9ZlQGZ8lCtAqkucR9pTsH8/view?usp=drivesdk"><img width="32px" alt="CS" src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"></a>
+    <a href="https://drive.google.com/file/d/1Oc_7KagjWY9ZlQGZ8lCtAqkucR9pTsH8/view?usp=drivesdk"><img width="32px" alt="CS" src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+</a>
+    <a></a><img src="https://tryhackme-badges.s3.amazonaws.com/Vihangakaveen.png" alt="TryHackMe"></a>
+    
   </p>
 </details>
 
