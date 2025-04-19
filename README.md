@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vihanga20">
-    <img src="https://github.com/vihanga20/upload/blob/main/75985679-modified.png" width="170px" alt="Kaveen Adithya" /></a>
+    <img src="https://github.com/Kaveen-Adithya/upload/blob/main/75985679-modified.png" width="170px" alt="Kaveen Adithya" /></a>
 </p>
 
 <p align="center">
@@ -59,7 +59,10 @@
     <a href="https://drive.google.com/file/d/1OlcPeCP16BKJYJza8LxxqToSV2iyHsz9/view?usp=drivesdk"><img width="32px" alt="CHB" src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png"></a>
     <a href="https://drive.google.com/file/d/1Oc_7KagjWY9ZlQGZ8lCtAqkucR9pTsH8/view?usp=drivesdk"><img width="32px" alt="CS" src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><br>
 </a>
-    <a></a><img src="https://tryhackme-badges.s3.amazonaws.com/Vihangakaveen.png" alt="TryHackMe"></a>
+
+<a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1419254" style='border:none;'></iframe>
+</a>
     
   </p>
 </details>
